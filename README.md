@@ -7,4 +7,6 @@
 - 📫 How to reach me: Github (Used to be Replit, but it's literally gone down the drain)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am only 16 years old!
+
+  
 ![john](https://github-readme-stats.vercel.app/api?username=pxlmastrxd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
