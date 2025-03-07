@@ -1,7 +1,7 @@
 ### Hello! I am pxlmastrXD!
 
-- 🔭 I’m currently working on a website for my brother
-- 🌱 I’m currently learning Vue
+- 🔭 I’m currently working on small projects about Java, to learn the language.
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on about anything
 - 💬 Ask me about my dog, Ron!
 - 📫 How to reach me: Github (Used to be Replit, but it's literally gone down the drain)
