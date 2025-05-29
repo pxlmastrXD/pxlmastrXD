@@ -1,3 +1,5 @@
+# Currently on summber break, no contributions will be made. Sorry!
+
 ### Hello! I am pxlmastrXD!
 
 - 🔭 I’m currently working on my first Full-Stack App, TaskJar.
